@@ -1,4 +1,4 @@
-# Video summarization 
+# Efficient video summarization based on objects of interest.
 
 This work demonstrates OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION. 
 
@@ -7,7 +7,7 @@ This work demonstrates OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7
 - Frame-wise object confidence scoring
 - Threshold based key frame selection for generating summary
 - Evaluation-ready structure for accuracy and precision analysis
-- 
+  
 # Project Setup
 
 1. Install Dependencies
