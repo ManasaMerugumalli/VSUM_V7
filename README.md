@@ -1,12 +1,13 @@
-# Object Detection with YOLOv7
+# Video summarization 
 
-This project demonstrates object detection using the YOLOv7 architecture. It includes detection of objects in images frames and calculates frame-wise confidence scores for video summarization.
+This work demonstrates OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION. 
 
 # Features
 - YOLOv7-based object detection
 - Frame-wise object confidence scoring
-- Integration-ready for keyframe scene summarization
+- Threshold based key frame selection for generating summary
 - Evaluation-ready structure for accuracy and precision analysis
+- 
 # Project Setup
 
 1. Install Dependencies
@@ -27,9 +28,10 @@ Place your video  and csv file in contents You can use .mp4 videos and .csv file
     - Load the model
     - Process video frames
     - Detect objects
-    - Score each frame based on detected object confidence and Threshold
+    - Score each frame based on detected object confidence
+    - Saves key frames using adaptive Threshold
     - Saves the summarized video 
-    - Calculate metrix
+    - Calculate performance metrics such as precision, Recall, F1 score and accuracy
 ## Output
 - Summarized video output with reduced run time This appears  in '/content named as   “final_video.mp4”
 
