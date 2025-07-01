@@ -15,14 +15,17 @@ The Official Github Repository of "Object-Centric Interactive Video Summarizatio
 # Project Setup
 
 1. Install Dependencies
-Make sure you have Python 3.8+ and pip installed. Then run:
+Make sure you have Python 3.8+ and pip installed.
+2. Install the packages provided in the requirement.txt
+ ```
 pip install -r requirements.txt
-2. Download YOLOv7 Weights
+ ```
+3. Download YOLOv7 Weights
 Download the YOLOv7 weights and place them in the weights/ directory:
     ```
     wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt -P weights/
     ```
-3. Prepare Input Data
+4. Prepare Input Data
 Place your video  and csv file in contents You can use .mp4 videos and .csv file sequences.
 
 # Running the Notebook
