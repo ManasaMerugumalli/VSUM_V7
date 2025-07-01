@@ -2,7 +2,7 @@
 
 The Official Github Repository of "Object-Centric Interactive Video Summarization via Yolov7 and Threshold-Based Key Frame Selection" 
 
-# Download the datasets.
+# Download the datasets
   1. TVSUM
   https://www.kaggle.com/datasets/hafianerabah/tvsum-videos
 
