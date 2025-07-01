@@ -1,6 +1,8 @@
 # Efficient video summarization based on objects of interest.
 
 This work demonstrates OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION. 
+# Data set link.
+  https://www.kaggle.com/datasets/hafianerabah/tvsum-videos
 
 # Features
 - YOLOv7-based object detection
