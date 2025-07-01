@@ -1,6 +1,10 @@
-# Efficient video summarization based on objects of interest.
+# OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION.
 
-This work demonstrates OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION. 
+The Official Github Repository of "Object-Centric Interactive Video Summarization via Yolov7 and Threshold-Based Key Frame Selection" 
+
+# Download the datasets.
+  1. TVSUM
+  https://www.kaggle.com/datasets/hafianerabah/tvsum-videos
 
 # Features
 - YOLOv7-based object detection
@@ -22,7 +26,7 @@ Download the YOLOv7 weights and place them in the weights/ directory:
 Place your video  and csv file in contents You can use .mp4 videos and .csv file sequences.
 
 # Running the Notebook
-1.	Open OBJECT_DETECTION.ipynb in Google Colab.
+1.	Open Video_Summarization.ipynb in Google Colab.
 2.	Run each cell step-by-step.
 3.	The notebook will:
     - Load the model
@@ -36,6 +40,5 @@ Place your video  and csv file in contents You can use .mp4 videos and .csv file
 ## Output
 - Summarized video output with reduced run time This appears  in '/content named as   “final_video.mp4”
 
-# Data set link.
-  https://www.kaggle.com/datasets/hafianerabah/tvsum-videos
+
 
