@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/067ffaef-265b-42d6-a213-fd5ee707a90d)
+![image](https://doi.org/10.5281/zenodo.15812107)
 
 # OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION.
 
