@@ -5,6 +5,8 @@ The Official Github Repository of "Object-Centric Interactive Video Summarizatio
 # Download the datasets
   1. TVSUM
   https://www.kaggle.com/datasets/hafianerabah/tvsum-videos
+  2.  SUMme
+  https://drive.google.com/file/d/1zO-3gWOfyWqXFGxrU1aSkxUGO0UgDwDq/view?usp=sharing
 
 # Features
 - YOLOv7-based object detection
