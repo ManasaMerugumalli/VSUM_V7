@@ -1,4 +1,4 @@
-https://zenodo.org/badge/DOI/10.5281/zenodo.15812107.svg
+https://doi.org/10.5281/zenodo.15812107
 # OBJECT-CENTRIC INTERACTIVE VIDEO SUMMARIZATION VIA YOLOV7 AND THRESHOLD-BASED KEY FRAME SELECTION.
 
 The Official Github Repository of "Object-Centric Interactive Video Summarization via Yolov7 and Threshold-Based Key Frame Selection" 
