@@ -42,6 +42,8 @@ Place your video  and csv file in contents You can use .mp4 videos and .csv file
 
 ## Output
 - Summarized video output with reduced run time This appears  in '/content named as   “final_video.mp4”
+## Sample INPUT and OUTPUT Video
+-https://drive.google.com/drive/folders/1BJ3F4e9D4kxsT2lyfEhFcSBJtopvGCZt?usp=sharing
 
 
 
